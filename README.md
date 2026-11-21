@@ -1,6 +1,7 @@
 # developer-
 journey of my new phase 
-the first code 
+the first code<br>
+
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
